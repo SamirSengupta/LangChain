@@ -36,7 +36,7 @@ print(response)
 
 ## Author
 
-- [Samir Sengupta](https://neuralthread.cloud/samir) - 
+- [Samir Sengupta](https://neuralthread.cloud/samir) 
 
 ## License
 
